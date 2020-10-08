@@ -1,2 +1,2 @@
-# Generation---Projeto-Integrador-
+# Generation-Projeto-Integrador
 Projeto integrador da Generation
